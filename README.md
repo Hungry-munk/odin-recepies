@@ -5,3 +5,8 @@ I am back to coding, unfortuantley my Marketing agency did not succeed and I am 
 about the actuall prject Im going to breeze through them as I havve done them in the past.
 
 good luck future me!
+
+get coding...
+
+from your favouriote person,
+Arsam ;)
