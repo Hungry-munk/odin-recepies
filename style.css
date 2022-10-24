@@ -1,0 +1,35 @@
+h1 {
+    color: blue;
+    background-color: green;
+    text-align: center ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.reason {
+    color: brown;
+}
+
+.link {
+    color: orange;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.link:hover {
+    color: green;
+    text-decoration: underline;
+}
+
+#list {
+    background-color: aquamarine;
+}
+
+#list :nth-child(odd) {
+    color: blueviolet;
+    margin: 10px;
+}
+
+#list :nth-child(even) {
+    color: coral;
+    padding: 10px;
+}
